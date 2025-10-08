@@ -22,7 +22,10 @@ A simple Personal Budget Tracker & Expense Manager built with Flask.
   ### dashboard (Application Interface)
   <img width="1090" height="1142" alt="image" src="https://github.com/user-attachments/assets/5f96a9c7-e594-43d8-985a-eb817579f3a1" />
 - for adding new entry
-- <img width="653" height="627" alt="image" src="https://github.com/user-attachments/assets/c49d772b-50a4-4496-9f8e-350bf6a3e01e" />
+  <img width="653" height="627" alt="image" src="https://github.com/user-attachments/assets/c49d772b-50a4-4496-9f8e-350bf6a3e01e" />
 - To Check the privious and next months
-  ![Uploading image.png…]()
+  <img width="1090" height="566" alt="image" src="https://github.com/user-attachments/assets/345ac2d8-962e-4706-ad31-2c4d7d2cf917" />
+
+  
+
 
