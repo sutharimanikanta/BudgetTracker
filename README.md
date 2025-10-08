@@ -1,17 +1,16 @@
-﻿# BudgetTracker
+BudgetTracker
+A simple Personal Budget Tracker & Expense Manager built with Flask.
 
-- Idea: Personal Budget Tracker & Expense Manager
-
-•	User login/signup to manage personal budgets
-•	Add, edit, and delete income and expense entries
-•	Categorize expenses (food, transport, bills, etc.)
-•	Visual summary of monthly spending with simple charts (using Bootstrap cards or minimal JS charts)
-•	Export budget and expense data as CSV
-•	Use minimal CSS, JavaScript/jQuery for validation & UI effects
-•	Flask backend with SQLite for data persistence
-
--	Technologies used
-
-Flask,Python,SQLite,SQLAlchemy,Flask-WTF,Flask_login,WTForms and werkzeug_security
-
--Demo
+Features
+User login/signup to manage personal budgets
+Add, edit, and delete income and expense entries
+Categorize expenses (e.g., food, transport, bills)
+Visual monthly spending summary with minimal charts (Bootstrap cards / lightweight JS)
+Export budget and expense data as CSV
+Minimal CSS and JavaScript/jQuery for validation & UI effects
+Flask backend with SQLite for data persistence
+Technologies Used
+Backend: Flask, Python
+Database: SQLite with SQLAlchemy
+Authentication: Flask-Login, Werkzeug Security
+Forms: Flask-WTF, WTForms
