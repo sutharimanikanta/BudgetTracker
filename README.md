@@ -14,7 +14,10 @@ A simple Personal Budget Tracker & Expense Manager built with Flask.
 * Database: SQLite with SQLAlchemy
 * Authentication: Flask-Login, Werkzeug Security
 * Forms: Flask-WTF, WTForms
-  
+## How to use
+* Install all the requirements from requirements.txt
+* Just run the command Flask run
+* It will provide a url and use it in web browser to view the application
 ## Demo
 - if you are a new user
 <img width="1090" height="563" alt="image" src="https://github.com/user-attachments/assets/d2f67749-803b-4399-b946-e7d41e4357ea" />
@@ -30,6 +33,7 @@ A simple Personal Budget Tracker & Expense Manager built with Flask.
   <img width="1090" height="566" alt="image" src="https://github.com/user-attachments/assets/345ac2d8-962e-4706-ad31-2c4d7d2cf917" />
 
   
+
 
 
 
